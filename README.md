@@ -25,3 +25,4 @@ Here's what happens:
 ## Special Thanks To
  * [Masible Prod](https://github.com/masible/smssum)'s SMSSum, which was used to sanity-check my checksum generation (it was off by one.)
  * [segmtfault from SMSPower](https://www.smspower.org/forums/15317-BIOS13FullyCommentedDisassembly) and their excellent commented disassembly of the v1.3 SMS BIOS, which sped things up greatly.
+ * Nicole from [Nicole Express](https://nicole.express/), who pointed me to the aforementioned disassembly and saved me at least an evening of debugger poking
